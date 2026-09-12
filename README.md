@@ -1,8 +1,6 @@
 # C10-team-marula
 # Team Marula — Optimizing RAG Document Retrieval for Agronomic Advice
 
-AI Saturdays Lagos, Cohort 10 — Final Project
-
 ## 1. Dataset
 
 We use the dataset provided through the Kaggle competition "Agricultural Extension RAG: Smart Retrieval for Farmers." It contains:
