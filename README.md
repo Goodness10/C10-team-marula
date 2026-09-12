@@ -74,6 +74,13 @@ The final Kaggle/CodaBench submission was produced by `scripts/run_hybrid_submis
 
 ## 5. Appendix — Contributors & Mentors
 
-- Team Marula — AI Saturdays Lagos, Cohort 10
-- [List teammates' names here]
-- Mentor(s): [List mentor name(s) here]
+### Team Members (Team Marula)
+- Obipehin Ridwanullah Adisa
+- Patrick Ireoluwa
+- Silas Emmanuel
+- Simphiwe Paul Ndlovu
+- Opateye Goodness Oluwamayokun
+
+### Mentors
+- Samuel Taiwo
+- Seun Ajayi
